@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { grow } from '../shared/shared';
 
 @Component({
-  selector: 'app-root',
+  selector: 'body',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
   animations: [ grow ]
